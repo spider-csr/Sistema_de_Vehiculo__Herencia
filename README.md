@@ -18,5 +18,10 @@ Este proyecto permite:
 - ✅ Interfaz gráfica básica (opcional).
 
 ---
+<img width="625" height="819" alt="WhatsApp Image 2026-04-28 at 1 38 51 PM" src="https://github.com/user-attachments/assets/1376c810-7f36-407d-804d-dd69ba24cb7b" />
 
-> 💡 **Consejo**: Puedes agregar capturas de pantalla del formulario o diagramas de clases para que se vea aún mejor.   
+_____________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________
+
+<img width="625" height="819" alt="WhatsApp Image 2026-04-28 at 1 38 51 PM" src="https://github.com/user-attachments/assets/d4e31e4d-4769-40aa-9ffc-67a770c86f60" />
+
